@@ -1,20 +1,5 @@
 var moviesData=[
-    {
-        img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-4z587408/portrait/1920x770bb666424b608474e863f5bdfa0d4fec5.jpg",
-        name:"Mithya",
-        cat: "Action"
-    },
-    
-    {
-        img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-4z560880/portrait/1920x7707e8711f6ada54ede80bd6c1fd7e5f289.jpg",
-        name:"Kaun Banegi Shikharwati",
-        cat: "Comedy"
-    },
-    {
-        img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-3284/portrait/1920x77042e27986e8a34d8babc022e2285e4b3107b9f350f5b6426f9c1ba7409f59728a.jpg",
-        name:"Sunflower",
-        cat: "Comedy"
-    },
+
     {
         img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-1298/portrait/1920x770c938b03fb7cb450cb30780f100aef25d.jpg",
         name:"Abhay",
